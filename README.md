@@ -5,8 +5,11 @@ Description of documents in my portfolio:
 
 **Sophomore year HCI:**
 Assignment 1 Persona: Assignment where we created user personas based on user stories we created.
+
 Final project wireframe mockup – Full color wireframe of our final group project in I270 which we did on a fictional red line smartphone application.
+
 Final Project – Research portion word document of final project wireframe mock up
+
 **Junior year HCI:**
 Exercise 1- Mills – Excel file containing usability data along with analysis and visualizations of analysis.
 Exercise 2 – Mills – Excel file similar to Exercise 1 but contains issue frequency data and survery results data.
