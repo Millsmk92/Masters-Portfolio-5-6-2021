@@ -33,7 +33,9 @@ Canvas Usability Issues – PowerPoint of usability issues found within canvas f
 
 **Masters Semester 1:**
 
-GMP Ops Manager Final Wireframe Dashboard: Figma wireframe for our design solution regarding manufacturing machinery power tracking for real world company Guardian Machine Protection.
+GMP Ops Manager Final Wireframe Dashboard: Figma wireframe for design solution regarding IoT manufacturing machinery power tracking for real world company Guardian Machine Protection.
+
+GMP Ops Manager Mobile: Figma Wireframe for mobile design solution regarding IoT machinery power tracking
 
 PowerTrack Pitch: Slide deck regarding our design solution for Guardian Machine Protection
 
